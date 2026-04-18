@@ -1,6 +1,6 @@
 ---
 name: add-rule
-description: Use when adding, removing, or updating Surge proxy rules in this repo. Triggers on "add rule", "add domain", "新增规则", "添加域名", or any request to route a domain/IP through a specific proxy policy.
+description: Use when managing Surge proxy rules — adding domains or IPs to .list rule sets, creating new rule categories, or checking which rules exist in this repo.
 ---
 
 # Add Surge Proxy Rule
@@ -42,7 +42,7 @@ When a new category is needed (e.g., `Streaming.list`):
 1. Create `rules/<Name>.list` with a `# <Name>` header
 2. Add rules
 3. Commit and push
-4. Remind user to d corresponding `RULE-SET` and policy group in their Surge config
+4. Remind user to add corresponding `RULE-SET` and policy group in their Surge config
 
 ## Quick Add Example
 
