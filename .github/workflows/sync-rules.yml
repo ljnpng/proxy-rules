@@ -1,0 +1,46 @@
+name: Sync community rules
+
+on:
+  schedule:
+    - cron: '30 2 * * *'  # daily 10:30 CST (02:30 UTC)
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Clone blackmatrix7 (sparse)
+        run: |
+          git clone --depth 1 --filter=blob:none --sparse \
+            https://github.com/blackmatrix7/ios_rule_script.git /tmp/src
+          cd /tmp/src
+          git sparse-checkout set \
+            rule/Surge/YouTube \
+            rule/Surge/Google \
+            rule/Surge/Telegram \
+            rule/Surge/Steam \
+            rule/Surge/Spotify \
+            rule/Surge/GitHub \
+            rule/Surge/Bahamut \
+            rule/Surge/Global
+
+      - name: Copy rule sets
+        run: |
+          for service in YouTube Google Telegram Steam Spotify GitHub Bahamut; do
+            cp "/tmp/src/rule/Surge/$service/$service.list" "rules/$service.list"
+          done
+          cp /tmp/src/rule/Surge/Global/Global.list rules/Global.list
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add rules/
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "sync: update community rules from blackmatrix7"
+            git push
+          fi
