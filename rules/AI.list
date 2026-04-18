@@ -1,0 +1,20 @@
+# AI Services
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,hume.ai
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor.com
