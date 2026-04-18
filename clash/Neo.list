@@ -1,0 +1,10 @@
+# Neo
+# Self-maintained proxy rules for domains not covered by community lists
+
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,raindrop.io
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,themoviedb.org
