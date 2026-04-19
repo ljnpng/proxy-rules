@@ -10,8 +10,9 @@ Personal proxy rule sets for whitelist-mode routing, serving both Surge and Clas
 
 ## File Ownership
 
-Community-synced files (auto-updated daily by GitHub Actions from `blackmatrix7/ios_rule_script`):
-- YouTube.list, Google.list, Telegram.list, Steam.list, Spotify.list, GitHub.list, Bahamut.list, Global.list
+Community-synced files (auto-updated daily by GitHub Actions):
+- YouTube.list, Google.list, Telegram.list, Steam.list, Spotify.list, GitHub.list, Bahamut.list, Global.list — from `blackmatrix7/ios_rule_script`
+- gfw.list — from `gfwlist/gfwlist` (base64 AutoProxy → Surge, converted by `scripts/sync-gfwlist.sh`)
 - **Do not edit these** — changes will be overwritten.
 
 Self-maintained files (safe to edit):
@@ -48,4 +49,8 @@ IP-ASN,12345,no-resolve
 
 ## Sync Workflow
 
-`.github/workflows/sync-rules.yml` runs daily at 10:30 CST via sparse checkout of blackmatrix7's repo. Can also be triggered manually via `workflow_dispatch`. Additionally triggers on push to `rules/*.list` to regenerate Clash files.
+`.github/workflows/sync-rules.yml` runs daily at 10:30 CST. Can also be triggered manually via `workflow_dispatch`. Additionally triggers on push to `rules/*.list` to regenerate Clash files.
+
+Sources:
+- blackmatrix7/ios_rule_script — sparse checkout for YouTube, Google, Telegram, Steam, Spotify, GitHub, Bahamut, Global
+- gfwlist/gfwlist — base64-encoded AutoProxy format, converted by `scripts/sync-gfwlist.sh` (fetches, decodes, parses domains, outputs Surge DOMAIN-SUFFIX rules)

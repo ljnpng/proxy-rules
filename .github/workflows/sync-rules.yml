@@ -38,6 +38,10 @@ jobs:
           done
           cp /tmp/src/rule/Surge/Global/Global.list rules/Global.list
 
+      - name: Sync GFW list
+        if: github.event_name != 'push'
+        run: bash scripts/sync-gfwlist.sh
+
       - name: Convert to Clash format
         run: bash scripts/convert-clash.sh
 
@@ -49,6 +53,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "sync: update community rules from blackmatrix7"
+            git commit -m "sync: update community rules"
             git push
           fi
