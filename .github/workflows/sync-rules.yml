@@ -36,7 +36,7 @@ jobs:
           for service in YouTube Google Telegram Steam Spotify GitHub Bahamut; do
             cp "/tmp/src/rule/Surge/$service/$service.list" "rules/$service.list"
           done
-          cp /tmp/src/rule/Surge/Global/Global.list rules/Global.list
+          cp /tmp/src/rule/Surge/Global/Global_All.list rules/Global.list
 
       - name: Sync GFW list
         if: github.event_name != 'push'
