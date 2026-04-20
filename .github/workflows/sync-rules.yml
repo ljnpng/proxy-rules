@@ -42,6 +42,9 @@ jobs:
         if: github.event_name != 'push'
         run: bash scripts/sync-gfwlist.sh
 
+      - name: Generate proxy.list
+        run: bash scripts/gen-proxy-list.sh
+
       - name: Convert to Clash format
         run: bash scripts/convert-clash.sh
 
