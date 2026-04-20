@@ -8,6 +8,9 @@ on:
     branches: [main]
     paths: ['rules/*.list']
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
