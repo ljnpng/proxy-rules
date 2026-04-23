@@ -11,7 +11,7 @@ Personal proxy rule sets for whitelist-mode routing, serving both Surge and Clas
 ## File Ownership
 
 Community-synced files (auto-updated daily by GitHub Actions):
-- YouTube.list, Google.list, Telegram.list, Steam.list, Spotify.list, GitHub.list, Bahamut.list, Global.list — from `blackmatrix7/ios_rule_script`
+- YouTube.list, Google.list, Telegram.list, Steam.list, Spotify.list, GitHub.list, Bahamut.list, Global.list, ChinaMax.list — from `blackmatrix7/ios_rule_script`
 - gfw.list — from `gfwlist/gfwlist` (base64 AutoProxy → Surge, converted by `scripts/sync-gfwlist.sh`)
 - **Do not edit these** — changes will be overwritten.
 

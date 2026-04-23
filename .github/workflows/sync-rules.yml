@@ -31,7 +31,8 @@ jobs:
             rule/Surge/Spotify \
             rule/Surge/GitHub \
             rule/Surge/Bahamut \
-            rule/Surge/Global
+            rule/Surge/Global \
+            rule/Surge/ChinaMax
 
       - name: Copy rule sets
         if: github.event_name != 'push'
@@ -40,6 +41,7 @@ jobs:
             cp "/tmp/src/rule/Surge/$service/$service.list" "rules/$service.list"
           done
           cp /tmp/src/rule/Surge/Global/Global_All.list rules/Global.list
+          cp /tmp/src/rule/Surge/ChinaMax/ChinaMax_All.list rules/ChinaMax.list
 
       - name: Sync GFW list
         if: github.event_name != 'push'
