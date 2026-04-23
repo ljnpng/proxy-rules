@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 33412
+# TOTAL: 33409
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -33282,7 +33282,6 @@ IP-CIDR,125.6.146.0/24
 IP-CIDR,125.6.149.0/24
 IP-CIDR,125.6.190.0/24
 IP-CIDR,129.134.0.0/17
-IP-CIDR,129.226.0.0/16
 IP-CIDR,13.32.0.0/15
 IP-CIDR,13.35.0.0/17
 IP-CIDR,14.102.250.18/31
@@ -33401,7 +33400,6 @@ USER-AGENT,Roam*
 USER-AGENT,SoundCloud*
 USER-AGENT,TIDAL*
 USER-AGENT,TaiwanGood*
-USER-AGENT,TikTok*
 USER-AGENT,TwDramas
 USER-AGENT,Viu*
 USER-AGENT,ViuTV*
@@ -33411,5 +33409,4 @@ USER-AGENT,battleroyale*
 USER-AGENT,com.apple.trustd*
 USER-AGENT,com.kktv.ios.kktv*
 USER-AGENT,encoreTVB*
-USER-AGENT,hearthstone*
 USER-AGENT,mytv*
