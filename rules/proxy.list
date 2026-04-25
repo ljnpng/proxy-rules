@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 33421
+# TOTAL: 33422
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -27888,6 +27888,7 @@ DOMAIN-SUFFIX,tec.ac.uk
 DOMAIN-SUFFIX,tech-mail.ru
 DOMAIN-SUFFIX,tech26.de
 DOMAIN-SUFFIX,techatbloomberg.com
+DOMAIN-SUFFIX,techbang.com
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,techextra.ac.uk
 DOMAIN-SUFFIX,techhub.ms

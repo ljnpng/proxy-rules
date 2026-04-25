@@ -1,6 +1,6 @@
 # GFW List - Auto-synced from github.com/gfwlist/gfwlist
 # Format: Surge rule set
-# Domains: 4139
+# Domains: 4140
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -3287,6 +3287,7 @@ DOMAIN-SUFFIX,tbsec.org
 DOMAIN-SUFFIX,tbsn.org
 DOMAIN-SUFFIX,tbssqh.org
 DOMAIN-SUFFIX,teachparentstech.org
+DOMAIN-SUFFIX,techbang.com
 DOMAIN-SUFFIX,technews.tw
 DOMAIN-SUFFIX,techviz.net
 DOMAIN-SUFFIX,teck.in
