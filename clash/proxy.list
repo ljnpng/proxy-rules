@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 33427
+# TOTAL: 33428
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -29727,6 +29727,7 @@ DOMAIN-SUFFIX,upmg.ac.uk
 DOMAIN-SUFFIX,upornia.com
 DOMAIN-SUFFIX,uporno.xxx
 DOMAIN-SUFFIX,uproxy.org
+DOMAIN-SUFFIX,upsangel.com
 DOMAIN-SUFFIX,uptodown.com
 DOMAIN-SUFFIX,upwill.org
 DOMAIN-SUFFIX,upwork.com
