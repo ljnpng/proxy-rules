@@ -1,6 +1,6 @@
 # GFW List - Auto-synced from github.com/gfwlist/gfwlist
 # Format: Surge rule set
-# Domains: 4141
+# Domains: 4142
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -3108,6 +3108,7 @@ DOMAIN-SUFFIX,socks-proxy.net
 DOMAIN-SUFFIX,sockslist.net
 DOMAIN-SUFFIX,socrec.org
 DOMAIN-SUFFIX,softether-download.com
+DOMAIN-SUFFIX,softether.co.jp
 DOMAIN-SUFFIX,softether.org
 DOMAIN-SUFFIX,softfamous.com
 DOMAIN-SUFFIX,softwarebychuck.com
