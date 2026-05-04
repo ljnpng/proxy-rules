@@ -1,6 +1,6 @@
 # GFW List - Auto-synced from github.com/gfwlist/gfwlist
 # Format: Surge rule set
-# Domains: 4142
+# Domains: 4138
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -2985,9 +2985,6 @@ DOMAIN-SUFFIX,savetibetstore.org
 DOMAIN-SUFFIX,saveuighur.org
 DOMAIN-SUFFIX,sbme.me
 DOMAIN-SUFFIX,sbti.unun.dev
-DOMAIN-SUFFIX,scache.vzw.com
-DOMAIN-SUFFIX,scache1.vzw.com
-DOMAIN-SUFFIX,scache2.vzw.com
 DOMAIN-SUFFIX,schema.org
 DOMAIN-SUFFIX,scmp.com
 DOMAIN-SUFFIX,scramble.io
@@ -3168,7 +3165,6 @@ DOMAIN-SUFFIX,sproutcore.com
 DOMAIN-SUFFIX,squirrelvpn.com
 DOMAIN-SUFFIX,ss*.4sqi.net
 DOMAIN-SUFFIX,ss-link.com
-DOMAIN-SUFFIX,ss7.vzw.com
 DOMAIN-SUFFIX,ssglobal.co
 DOMAIN-SUFFIX,ssl.webpack.de
 DOMAIN-SUFFIX,sspanel.net
