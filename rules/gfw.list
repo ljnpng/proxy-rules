@@ -1,6 +1,6 @@
 # GFW List - Auto-synced from github.com/gfwlist/gfwlist
 # Format: Surge rule set
-# Domains: 4166
+# Domains: 4167
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -3630,6 +3630,7 @@ DOMAIN-SUFFIX,ulop.net
 DOMAIN-SUFFIX,ultrasurf.us
 DOMAIN-SUFFIX,ultravpn.com
 DOMAIN-SUFFIX,ultravpn.fr
+DOMAIN-SUFFIX,umap.openstreetmap.fr
 DOMAIN-SUFFIX,unblock-us.com
 DOMAIN-SUFFIX,unblock.cn.com
 DOMAIN-SUFFIX,unblockdmm.com

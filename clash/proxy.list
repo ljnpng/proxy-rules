@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 33547
+# TOTAL: 33558
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -2250,6 +2250,7 @@ DOMAIN-SUFFIX,anypornhd.com
 DOMAIN-SUFFIX,anypornsexxx.com
 DOMAIN-SUFFIX,anysex.com
 DOMAIN-SUFFIX,anyshemale.com
+DOMAIN-SUFFIX,anythingllm.com
 DOMAIN-SUFFIX,anyxxx.me
 DOMAIN-SUFFIX,anyxxx.pro
 DOMAIN-SUFFIX,ao3.org
@@ -14696,6 +14697,7 @@ DOMAIN-SUFFIX,icair.ac.uk
 DOMAIN-SUFFIX,icams.com
 DOMAIN-SUFFIX,icashpassport.com.mx
 DOMAIN-SUFFIX,icca.ac.uk
+DOMAIN-SUFFIX,iccf.com
 DOMAIN-SUFFIX,iccliverpool.ac.uk
 DOMAIN-SUFFIX,ice-cse.ac.uk
 DOMAIN-SUFFIX,iced.ac.uk
@@ -21476,6 +21478,7 @@ DOMAIN-SUFFIX,ntyneside.ac.uk
 DOMAIN-SUFFIX,nu-bay.com
 DOMAIN-SUFFIX,nu-sense.ac.uk
 DOMAIN-SUFFIX,nu.nl
+DOMAIN-SUFFIX,nu36.vip
 DOMAIN-SUFFIX,nua.ac.uk
 DOMAIN-SUFFIX,nubilefilms.com
 DOMAIN-SUFFIX,nubiles-casting.com
@@ -21912,6 +21915,7 @@ DOMAIN-SUFFIX,onani-daisuki.com
 DOMAIN-SUFFIX,onapp.com
 DOMAIN-SUFFIX,onbeatsbydresale.com
 DOMAIN-SUFFIX,oncars.in
+DOMAIN-SUFFIX,ondigitalocean.com
 DOMAIN-SUFFIX,one.one
 DOMAIN-SUFFIX,one.one.one.one
 DOMAIN-SUFFIX,one889.app
@@ -22053,6 +22057,7 @@ DOMAIN-SUFFIX,opensciencelab.ac.uk
 DOMAIN-SUFFIX,opensciencelaboratory.ac.uk
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,opensource.ac.uk
+DOMAIN-SUFFIX,openspec.dev
 DOMAIN-SUFFIX,openssl.org
 DOMAIN-SUFFIX,openstemlab.ac.uk
 DOMAIN-SUFFIX,openstemlabs.ac.uk
@@ -27556,6 +27561,7 @@ DOMAIN-SUFFIX,supply-chain.ac.uk
 DOMAIN-SUFFIX,supplybestjerseys.com
 DOMAIN-SUFFIX,support-uber.com
 DOMAIN-SUFFIX,supportfacebook.com
+DOMAIN-SUFFIX,supr.cl
 DOMAIN-SUFFIX,supremacy.com
 DOMAIN-SUFFIX,supremacy.net
 DOMAIN-SUFFIX,suprememastertv.com
@@ -29295,6 +29301,7 @@ DOMAIN-SUFFIX,twifuli.com
 DOMAIN-SUFFIX,twiggit.org
 DOMAIN-SUFFIX,twilightsex.com
 DOMAIN-SUFFIX,twilio.com
+DOMAIN-SUFFIX,twilio.jp
 DOMAIN-SUFFIX,twilog.org
 DOMAIN-SUFFIX,twimbow.com
 DOMAIN-SUFFIX,twimg.co
@@ -29405,6 +29412,7 @@ DOMAIN-SUFFIX,typography.com
 DOMAIN-SUFFIX,typora.io
 DOMAIN-SUFFIX,tyre-cadcam.com
 DOMAIN-SUFFIX,tyrecadcam.com
+DOMAIN-SUFFIX,tytch.com
 DOMAIN-SUFFIX,tytng189.com
 DOMAIN-SUFFIX,tytporno.online
 DOMAIN-SUFFIX,u.nu
@@ -29677,6 +29685,7 @@ DOMAIN-SUFFIX,ultrayoungsex.com
 DOMAIN-SUFFIX,ulyssesapp.com
 DOMAIN-SUFFIX,uma.media
 DOMAIN-SUFFIX,umagazine.com.hk
+DOMAIN-SUFFIX,umap.openstreetmap.fr
 DOMAIN-SUFFIX,umass.edu
 DOMAIN-SUFFIX,umbrella.com
 DOMAIN-SUFFIX,umds.ac.uk
@@ -29883,7 +29892,9 @@ DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,userapi.ru
 DOMAIN-SUFFIX,usercentrics.eu
 DOMAIN-SUFFIX,usercontent.goog
+DOMAIN-SUFFIX,userdrive.org
 DOMAIN-SUFFIX,userpxt.io
+DOMAIN-SUFFIX,usersdrive.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,usfk.mil
 DOMAIN-SUFFIX,usgs.gov
