@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 33559
+# TOTAL: 33561
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -7957,6 +7957,7 @@ DOMAIN-SUFFIX,data.ac.uk
 DOMAIN-SUFFIX,data.com
 DOMAIN-SUFFIX,data.flurry.com
 DOMAIN-SUFFIX,data.gov.tw
+DOMAIN-SUFFIX,data18.com
 DOMAIN-SUFFIX,datacloudmy.com
 DOMAIN-SUFFIX,dataframeworks.com
 DOMAIN-SUFFIX,datafuturesalphapilot.ac.uk
@@ -9098,6 +9099,7 @@ DOMAIN-SUFFIX,dsw.ac.uk
 DOMAIN-SUFFIX,dswz88.xyz
 DOMAIN-SUFFIX,dsyiren.com
 DOMAIN-SUFFIX,dt-toolkit.ac.uk
+DOMAIN-SUFFIX,dt18.com
 DOMAIN-SUFFIX,dtc-online.ac.uk
 DOMAIN-SUFFIX,dtci.co
 DOMAIN-SUFFIX,dtci.technology
