@@ -1,6 +1,6 @@
 # GFW List - Auto-synced from github.com/gfwlist/gfwlist
 # Format: Surge rule set
-# Domains: 4169
+# Domains: 4170
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -682,6 +682,7 @@ DOMAIN-SUFFIX,chineseupress.com
 DOMAIN-SUFFIX,chingcheong.com
 DOMAIN-SUFFIX,chinman.net
 DOMAIN-SUFFIX,chobit.cc
+DOMAIN-SUFFIX,chonglangtv.org
 DOMAIN-SUFFIX,chrdnet.com
 DOMAIN-SUFFIX,christianfreedom.org
 DOMAIN-SUFFIX,christianstudy.com
