@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 33672
+# TOTAL: 33678
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -2749,6 +2749,7 @@ DOMAIN-SUFFIX,archiveshub.ac.uk
 DOMAIN-SUFFIX,archivx.to
 DOMAIN-SUFFIX,archlinux.de
 DOMAIN-SUFFIX,archlinux.org
+DOMAIN-SUFFIX,archlinux.page
 DOMAIN-SUFFIX,archlinuxarm.org
 DOMAIN-SUFFIX,archlinuxcn.org
 DOMAIN-SUFFIX,archway.ac.uk
@@ -24825,6 +24826,7 @@ DOMAIN-SUFFIX,right-2.ac.uk
 DOMAIN-SUFFIX,rightbtc.com
 DOMAIN-SUFFIX,rightster.com
 DOMAIN-SUFFIX,rigpa.org
+DOMAIN-SUFFIX,rigums.xyz
 DOMAIN-SUFFIX,riku.me
 DOMAIN-SUFFIX,rileyguide.com
 DOMAIN-SUFFIX,rime.im
@@ -26025,6 +26027,7 @@ DOMAIN-SUFFIX,sgul.ac.uk
 DOMAIN-SUFFIX,sgwritings.com
 DOMAIN-SUFFIX,sgzhan.com
 DOMAIN-SUFFIX,sh-xuxingda.com
+DOMAIN-SUFFIX,sh83.xyz
 DOMAIN-SUFFIX,shadbase.com
 DOMAIN-SUFFIX,shadeyouvpn.com
 DOMAIN-SUFFIX,shadow.ma
@@ -26274,6 +26277,7 @@ DOMAIN-SUFFIX,siddharthasintent.org
 DOMAIN-SUFFIX,side.ac.uk
 DOMAIN-SUFFIX,sidelinesnews.com
 DOMAIN-SUFFIX,sidelinessportseatery.com
+DOMAIN-SUFFIX,sider.ai
 DOMAIN-SUFFIX,sie.ac.uk
 DOMAIN-SUFFIX,siege-amazon.com
 DOMAIN-SUFFIX,sierrafriendsoftibet.org
@@ -31132,6 +31136,7 @@ DOMAIN-SUFFIX,vulgarx.com
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,vultryhw.com
 DOMAIN-SUFFIX,vuvuzela.io
+DOMAIN-SUFFIX,vv1865.com
 DOMAIN-SUFFIX,vxnbbrs.xyz
 DOMAIN-SUFFIX,vxxsred.xyz
 DOMAIN-SUFFIX,vyprvpn.com
@@ -33355,6 +33360,7 @@ DOMAIN-SUFFIX,zhanbin.net
 DOMAIN-SUFFIX,zhangboli.net
 DOMAIN-SUFFIX,zhangboz1.xyz
 DOMAIN-SUFFIX,zhangtianliang.com
+DOMAIN-SUFFIX,zhangzhehan.net
 DOMAIN-SUFFIX,zhanlve.org
 DOMAIN-SUFFIX,zhao.1984.city
 DOMAIN-SUFFIX,zhenghui.org
