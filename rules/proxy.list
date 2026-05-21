@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 33697
+# TOTAL: 33702
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -12084,6 +12084,7 @@ DOMAIN-SUFFIX,g-queen.com
 DOMAIN-SUFFIX,g-technology.com
 DOMAIN-SUFFIX,g-tvapp.com
 DOMAIN-SUFFIX,g-xxxhub.com
+DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.kfd.me
 DOMAIN-SUFFIX,g0v.social
 DOMAIN-SUFFIX,g1.com.br
@@ -17432,6 +17433,7 @@ DOMAIN-SUFFIX,lenkino.xxx
 DOMAIN-SUFFIX,lenporno.net
 DOMAIN-SUFFIX,lenporno.red
 DOMAIN-SUFFIX,lenwhite.com
+DOMAIN-SUFFIX,leonardo.ai
 DOMAIN-SUFFIX,leorockwell.com
 DOMAIN-SUFFIX,leos-scot.ac.uk
 DOMAIN-SUFFIX,lepoint.fr
@@ -24373,6 +24375,7 @@ DOMAIN-SUFFIX,ranyunfei.com
 DOMAIN-SUFFIX,rapbull.net
 DOMAIN-SUFFIX,rapefilms.net
 DOMAIN-SUFFIX,rapetube.me
+DOMAIN-SUFFIX,raphael.app
 DOMAIN-SUFFIX,rapid.ac.uk
 DOMAIN-SUFFIX,rapidgator.net
 DOMAIN-SUFFIX,rapidmoviez.com
@@ -25121,6 +25124,7 @@ DOMAIN-SUFFIX,rukoebxx.com
 DOMAIN-SUFFIX,rukor.org
 DOMAIN-SUFFIX,rul.ac.uk
 DOMAIN-SUFFIX,rulaisc-tv.buzz
+DOMAIN-SUFFIX,rule34.us
 DOMAIN-SUFFIX,rule34.world
 DOMAIN-SUFFIX,rule34.xxx
 DOMAIN-SUFFIX,rule34.xyz
@@ -26885,6 +26889,7 @@ DOMAIN-SUFFIX,sostibet.org
 DOMAIN-SUFFIX,sothebys-institute.ac.uk
 DOMAIN-SUFFIX,soton.ac.uk
 DOMAIN-SUFFIX,sots.ac.uk
+DOMAIN-SUFFIX,sotwe.com
 DOMAIN-SUFFIX,sou-tong.org
 DOMAIN-SUFFIX,soubory.com
 DOMAIN-SUFFIX,souka.xyz
