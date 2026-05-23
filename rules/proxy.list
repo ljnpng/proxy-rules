@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 33708
+# TOTAL: 33710
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -413,6 +413,7 @@ DOMAIN-SUFFIX,233abc.com
 DOMAIN-SUFFIX,233v2.com
 DOMAIN-SUFFIX,2371tom.com
 DOMAIN-SUFFIX,24h.tv
+DOMAIN-SUFFIX,24hbook.com
 DOMAIN-SUFFIX,24hjav.com
 DOMAIN-SUFFIX,24hrs.ca
 DOMAIN-SUFFIX,24porn.com
@@ -18442,6 +18443,7 @@ DOMAIN-SUFFIX,marxists.org
 DOMAIN-SUFFIX,maryvale.ac.uk
 DOMAIN-SUFFIX,maryward.ac.uk
 DOMAIN-SUFFIX,marywardcentre.ac.uk
+DOMAIN-SUFFIX,mas.to
 DOMAIN-SUFFIX,masalabin.com
 DOMAIN-SUFFIX,masaladesi.com
 DOMAIN-SUFFIX,masalaseen.net
