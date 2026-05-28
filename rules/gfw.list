@@ -1,6 +1,6 @@
 # GFW List - Auto-synced from github.com/gfwlist/gfwlist
 # Format: Surge rule set
-# Domains: 4181
+# Domains: 4182
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -962,6 +962,7 @@ DOMAIN-SUFFIX,doublethinklab.org
 DOMAIN-SUFFIX,douchi.space
 DOMAIN-SUFFIX,dougscripts.com
 DOMAIN-SUFFIX,doujincafe.com
+DOMAIN-SUFFIX,dowjones.io
 DOMAIN-SUFFIX,download.dappcdn.com
 DOMAIN-SUFFIX,dpool.top
 DOMAIN-SUFFIX,dpp.org.tw
