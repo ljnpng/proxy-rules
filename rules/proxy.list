@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 33749
+# TOTAL: 33751
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -2835,6 +2835,7 @@ DOMAIN-SUFFIX,arweave.org
 DOMAIN-SUFFIX,arxiv.org
 DOMAIN-SUFFIX,arzon.jp
 DOMAIN-SUFFIX,as-hp.ca
+DOMAIN-SUFFIX,as.mr
 DOMAIN-SUFFIX,asacp.org
 DOMAIN-SUFFIX,asagaku.com
 DOMAIN-SUFFIX,asahi.com
@@ -7112,7 +7113,6 @@ DOMAIN-SUFFIX,cn6.eu
 DOMAIN-SUFFIX,cna.com.tw
 DOMAIN-SUFFIX,cnabc.com
 DOMAIN-SUFFIX,cnbbnews.wordpress.com
-DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cnbeta.com.tw
 DOMAIN-SUFFIX,cnd.org
 DOMAIN-SUFFIX,cnet.com
@@ -17749,6 +17749,7 @@ DOMAIN-SUFFIX,livingonline.us
 DOMAIN-SUFFIX,livingstream.com
 DOMAIN-SUFFIX,livingwithmachines.ac.uk
 DOMAIN-SUFFIX,livingyourambition.com
+DOMAIN-SUFFIX,livinno.org
 DOMAIN-SUFFIX,livjm.ac.uk
 DOMAIN-SUFFIX,livrariart.com.br
 DOMAIN-SUFFIX,liwangyang.com
@@ -22132,6 +22133,7 @@ DOMAIN-SUFFIX,ootbstudio.co.kr
 DOMAIN-SUFFIX,ooyala.com
 DOMAIN-SUFFIX,op.gg
 DOMAIN-SUFFIX,op7979.com
+DOMAIN-SUFFIX,opac-project.eu
 DOMAIN-SUFFIX,opdems.ac.uk
 DOMAIN-SUFFIX,open.ac.uk
 DOMAIN-SUFFIX,open.com.hk
