@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 33756
+# TOTAL: 33758
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -27774,6 +27774,7 @@ DOMAIN-SUFFIX,suttoncollege.ac.uk
 DOMAIN-SUFFIX,suxib.com
 DOMAIN-SUFFIX,suxiebu.com
 DOMAIN-SUFFIX,suyangg.com
+DOMAIN-SUFFIX,suyingtv.com
 DOMAIN-SUFFIX,suzuri.jp
 DOMAIN-SUFFIX,svaboda.org
 DOMAIN-SUFFIX,svc.ms
@@ -32017,6 +32018,7 @@ DOMAIN-SUFFIX,wozy.in
 DOMAIN-SUFFIX,wp-themes.com
 DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,wpewebkit.org
+DOMAIN-SUFFIX,wplace.live
 DOMAIN-SUFFIX,wpoforum.com
 DOMAIN-SUFFIX,wpvip.com
 DOMAIN-SUFFIX,wqe.ac.uk
