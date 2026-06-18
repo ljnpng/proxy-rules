@@ -1,6 +1,6 @@
 # GFW List - Auto-synced from github.com/gfwlist/gfwlist
 # Format: Surge rule set
-# Domains: 4187
+# Domains: 4188
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -3108,6 +3108,7 @@ DOMAIN-SUFFIX,sinoants.com
 DOMAIN-SUFFIX,sinoca.com
 DOMAIN-SUFFIX,sinocast.com
 DOMAIN-SUFFIX,sinoinsider.com
+DOMAIN-SUFFIX,sinyalee.com
 DOMAIN-SUFFIX,sipml5.org
 DOMAIN-SUFFIX,sis001.com
 DOMAIN-SUFFIX,site.new
