@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34148
+# TOTAL: 34175
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -44,6 +44,7 @@ DOMAIN,espndotcom.tt.omtrdc.net
 DOMAIN,faronics.kayako.com
 DOMAIN,firstsearch.oclc.org
 DOMAIN,github-api.arkoselabs.com
+DOMAIN,gog-cdn-lumen.secure2.footprint.net
 DOMAIN,gog.qtlglb.com
 DOMAIN,holoxx.f5.si
 DOMAIN,hpstore.corpmerchandise.com
@@ -4382,6 +4383,7 @@ DOMAIN-SUFFIX,bileta.ac.uk
 DOMAIN-SUFFIX,bili2.cc
 DOMAIN-SUFFIX,bili888.com
 DOMAIN-SUFFIX,bili999.com
+DOMAIN-SUFFIX,bilinovel.com
 DOMAIN-SUFFIX,biliworld.com
 DOMAIN-SUFFIX,bilk.ac.uk
 DOMAIN-SUFFIX,bill-safe.com
@@ -12152,19 +12154,26 @@ DOMAIN-SUFFIX,futu1.com
 DOMAIN-SUFFIX,futu2.com
 DOMAIN-SUFFIX,futu3.com
 DOMAIN-SUFFIX,futu4.com
+DOMAIN-SUFFIX,futu5.com
 DOMAIN-SUFFIX,futu6.com
 DOMAIN-SUFFIX,futu7.com
 DOMAIN-SUFFIX,futu8.com
 DOMAIN-SUFFIX,futu9.com
+DOMAIN-SUFFIX,futuau.com
 DOMAIN-SUFFIX,futubull.cn
 DOMAIN-SUFFIX,futuchain.com
+DOMAIN-SUFFIX,futuesop.com
+DOMAIN-SUFFIX,futufin.com
 DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,futuhk1.com
 DOMAIN-SUFFIX,futuhk2.com
 DOMAIN-SUFFIX,futuhkapp.com
+DOMAIN-SUFFIX,futuhn.com
 DOMAIN-SUFFIX,futuholdings.com
 DOMAIN-SUFFIX,futuinc.com
 DOMAIN-SUFFIX,futunited.com
+DOMAIN-SUFFIX,futuniuniu.com
+DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futuoa.com
 DOMAIN-SUFFIX,future-cs.ru
 DOMAIN-SUFFIX,future-media.ac.uk
@@ -12183,6 +12192,9 @@ DOMAIN-SUFFIX,futuretrack.ac.uk
 DOMAIN-SUFFIX,futurevehicles.ac.uk
 DOMAIN-SUFFIX,futureworks.ac.uk
 DOMAIN-SUFFIX,futusg.com
+DOMAIN-SUFFIX,futustatic.com
+DOMAIN-SUFFIX,fututrade.com
+DOMAIN-SUFFIX,fututrustee.com
 DOMAIN-SUFFIX,fux.com
 DOMAIN-SUFFIX,fuxporn.com
 DOMAIN-SUFFIX,fuyin.net
@@ -16147,6 +16159,7 @@ DOMAIN-SUFFIX,itgonglun.com
 DOMAIN-SUFFIX,ithaisex.com
 DOMAIN-SUFFIX,ithome.com.tw
 DOMAIN-SUFFIX,itiger.com
+DOMAIN-SUFFIX,itigerup.com
 DOMAIN-SUFFIX,itirex.ru
 DOMAIN-SUFFIX,itisatrap.org
 DOMAIN-SUFFIX,itlearningspace-scot.ac.uk
@@ -17407,6 +17420,7 @@ DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,lantosfoundation.org
 DOMAIN-SUFFIX,laogai.org
 DOMAIN-SUFFIX,laogairesearch.org
+DOMAIN-SUFFIX,laohu8.com
 DOMAIN-SUFFIX,laomiu.com
 DOMAIN-SUFFIX,laosijifuli9009.top
 DOMAIN-SUFFIX,laowang.vip
@@ -17455,7 +17469,9 @@ DOMAIN-SUFFIX,lazymike.com
 DOMAIN-SUFFIX,lbank.info
 DOMAIN-SUFFIX,lbc-northwood.ac.uk
 DOMAIN-SUFFIX,lbc.ac.uk
+DOMAIN-SUFFIX,lbctrl.com
 DOMAIN-SUFFIX,lbfmaddiction.com
+DOMAIN-SUFFIX,lbkrs.com
 DOMAIN-SUFFIX,lboro.ac.uk
 DOMAIN-SUFFIX,lborolondon.ac.uk
 DOMAIN-SUFFIX,lbpresearch.ac.uk
@@ -18056,6 +18072,8 @@ DOMAIN-SUFFIX,longbridge.com
 DOMAIN-SUFFIX,longbridge.global
 DOMAIN-SUFFIX,longbridge.hk
 DOMAIN-SUFFIX,longbridge.sg
+DOMAIN-SUFFIX,longbridgeapp.com
+DOMAIN-SUFFIX,longbridgehk.com
 DOMAIN-SUFFIX,longeaton.ac.uk
 DOMAIN-SUFFIX,longhair.hk
 DOMAIN-SUFFIX,longley-park.ac.uk
@@ -19956,6 +19974,8 @@ DOMAIN-SUFFIX,monthlyav.com
 DOMAIN-SUFFIX,moodleshare-hw.ac.uk
 DOMAIN-SUFFIX,moodyz.com
 DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomooequity.com
+DOMAIN-SUFFIX,moomootrustee.com
 DOMAIN-SUFFIX,moon.fm
 DOMAIN-SUFFIX,moonbbs.com
 DOMAIN-SUFFIX,moonbbs.info
@@ -29087,7 +29107,11 @@ DOMAIN-SUFFIX,tiendabestbuy.com
 DOMAIN-SUFFIX,tiffany-towers.com
 DOMAIN-SUFFIX,tig-ol-bitties.live
 DOMAIN-SUFFIX,tigerbbs.cn
+DOMAIN-SUFFIX,tigerbbs.com
+DOMAIN-SUFFIX,tigerbrokers.com
+DOMAIN-SUFFIX,tigerbrokers.net
 DOMAIN-SUFFIX,tigerbrokers.nz
+DOMAIN-SUFFIX,tigerfintech.com
 DOMAIN-SUFFIX,tigervpn.com
 DOMAIN-SUFFIX,tiipple.ac.uk
 DOMAIN-SUFFIX,tik-tokapi.com
@@ -31730,6 +31754,7 @@ DOMAIN-SUFFIX,wbmotivator.ru
 DOMAIN-SUFFIX,wbpay.ru
 DOMAIN-SUFFIX,wbr.by
 DOMAIN-SUFFIX,wbrep.ru
+DOMAIN-SUFFIX,wbrks.com
 DOMAIN-SUFFIX,wbs.ac.uk
 DOMAIN-SUFFIX,wbstatic.net
 DOMAIN-SUFFIX,wbstatic.ru
@@ -32663,6 +32688,7 @@ DOMAIN-SUFFIX,xiaod.in
 DOMAIN-SUFFIX,xiaofu.me
 DOMAIN-SUFFIX,xiaogirls.com
 DOMAIN-SUFFIX,xiaohexie.com
+DOMAIN-SUFFIX,xiaohu8.com
 DOMAIN-SUFFIX,xiaolan.me
 DOMAIN-SUFFIX,xiaoma.org
 DOMAIN-SUFFIX,xiaomi.eu
@@ -33838,6 +33864,7 @@ DOMAIN-SUFFIX,zhenlibu.info
 DOMAIN-SUFFIX,zhenlibu1984.com
 DOMAIN-SUFFIX,zhenxiang.biz
 DOMAIN-SUFFIX,zhijianfengyi.cn
+DOMAIN-SUFFIX,zhijianfengyi.com
 DOMAIN-SUFFIX,zhimeishe888.com
 DOMAIN-SUFFIX,zhinengluyou.com
 DOMAIN-SUFFIX,zhizhu.top
