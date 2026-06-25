@@ -1,6 +1,6 @@
 # GFW List - Auto-synced from github.com/gfwlist/gfwlist
 # Format: Surge rule set
-# Domains: 4276
+# Domains: 4277
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -1367,6 +1367,7 @@ DOMAIN-SUFFIX,generated.photos
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,geph.io
 DOMAIN-SUFFIX,get.app
+DOMAIN-SUFFIX,get.dappcdn.com
 DOMAIN-SUFFIX,get.dev
 DOMAIN-SUFFIX,get.how
 DOMAIN-SUFFIX,get.page
