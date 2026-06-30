@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34204
+# TOTAL: 34209
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -2639,6 +2639,7 @@ DOMAIN-SUFFIX,applepremiumresellers.com.au
 DOMAIN-SUFFIX,applereach.com
 DOMAIN-SUFFIX,applereach.net
 DOMAIN-SUFFIX,apples-msk.ru
+DOMAIN-SUFFIX,appleschoolcontent.com
 DOMAIN-SUFFIX,applescreensavers.com
 DOMAIN-SUFFIX,applescript.info
 DOMAIN-SUFFIX,appleshare.info
@@ -2731,6 +2732,7 @@ DOMAIN-SUFFIX,apts.ac.uk
 DOMAIN-SUFFIX,apu.ac.uk
 DOMAIN-SUFFIX,apuc-scot.ac.uk
 DOMAIN-SUFFIX,apyle.com
+DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,aqdlt.net
 DOMAIN-SUFFIX,aqmen.ac.uk
 DOMAIN-SUFFIX,aquinas.ac.uk
@@ -3400,6 +3402,7 @@ DOMAIN-SUFFIX,awxcdn.com
 DOMAIN-SUFFIX,axbdoll.com.tw
 DOMAIN-SUFFIX,axept.io
 DOMAIN-SUFFIX,axios.com
+DOMAIN-SUFFIX,axm-usercontent-apple.com
 DOMAIN-SUFFIX,axureformac.com
 DOMAIN-SUFFIX,ayabank.com
 DOMAIN-SUFFIX,aylesbury.ac.uk
@@ -7984,6 +7987,7 @@ DOMAIN-SUFFIX,damplips.com
 DOMAIN-SUFFIX,danbooru.donmai.us
 DOMAIN-SUFFIX,dance-archives.ac.uk
 DOMAIN-SUFFIX,dandalinvoa.com
+DOMAIN-SUFFIX,dandanplay.net
 DOMAIN-SUFFIX,dandanzan.cc
 DOMAIN-SUFFIX,danemarket.com
 DOMAIN-SUFFIX,danilo.to
@@ -29518,6 +29522,7 @@ DOMAIN-SUFFIX,trinitycollegebristol.ac.uk
 DOMAIN-SUFFIX,trinitylaban.ac.uk
 DOMAIN-SUFFIX,trinitysaintdavid.ac.uk
 DOMAIN-SUFFIX,triokini.com
+DOMAIN-SUFFIX,tripo3d.ai
 DOMAIN-SUFFIX,tristatebmw.com
 DOMAIN-SUFFIX,trithucvn.net
 DOMAIN-SUFFIX,trithucvn.org
