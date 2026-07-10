@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34225
+# TOTAL: 34231
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -11519,6 +11519,8 @@ DOMAIN-SUFFIX,flowfront.net
 DOMAIN-SUFFIX,flowgpt.com
 DOMAIN-SUFFIX,flowhongkong.net
 DOMAIN-SUFFIX,flowtype.org
+DOMAIN-SUFFIX,flowwow-images.com
+DOMAIN-SUFFIX,flowwow.com
 DOMAIN-SUFFIX,fluffychat.im
 DOMAIN-SUFFIX,fluidfxapp.com
 DOMAIN-SUFFIX,fluidpreview.com
@@ -12134,6 +12136,8 @@ DOMAIN-SUFFIX,funkyimg.com
 DOMAIN-SUFFIX,funnyfacebook.org
 DOMAIN-SUFFIX,funnyordie.com
 DOMAIN-SUFFIX,funp.com
+DOMAIN-SUFFIX,funpay.com
+DOMAIN-SUFFIX,funpay.ru
 DOMAIN-SUFFIX,funshemale.com
 DOMAIN-SUFFIX,fuq.com
 DOMAIN-SUFFIX,fuqqt.com
@@ -26430,6 +26434,7 @@ DOMAIN-SUFFIX,sfshibao.com
 DOMAIN-SUFFIX,sfsstudents.ac.uk
 DOMAIN-SUFFIX,sftindia.org
 DOMAIN-SUFFIX,sftuk.org
+DOMAIN-SUFFIX,sfunpay.com
 DOMAIN-SUFFIX,sfx.ac.uk
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,sfxc.ac.uk
@@ -29175,6 +29180,7 @@ DOMAIN-SUFFIX,tilda.ru
 DOMAIN-SUFFIX,tilda.ws
 DOMAIN-SUFFIX,tildaapi.com
 DOMAIN-SUFFIX,tildacdn.com
+DOMAIN-SUFFIX,tildacdn.net
 DOMAIN-SUFFIX,tilehill.ac.uk
 DOMAIN-SUFFIX,timdir.com
 DOMAIN-SUFFIX,time-messenger.ru
