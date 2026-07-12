@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34231
+# TOTAL: 34233
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -18493,6 +18493,7 @@ DOMAIN-SUFFIX,makeappli.jp
 DOMAIN-SUFFIX,makearmanotwar.com
 DOMAIN-SUFFIX,makebettercode.com
 DOMAIN-SUFFIX,makecode.org
+DOMAIN-SUFFIX,makeeu.com
 DOMAIN-SUFFIX,makeitopen.com
 DOMAIN-SUFFIX,makeitrealcontest.com
 DOMAIN-SUFFIX,makemymood.com
@@ -19734,6 +19735,7 @@ DOMAIN-SUFFIX,mist.vip
 DOMAIN-SUFFIX,mistresskym.com
 DOMAIN-SUFFIX,mit.edu
 DOMAIN-SUFFIX,mit.net
+DOMAIN-SUFFIX,mitao.bar
 DOMAIN-SUFFIX,mitao.com.tw
 DOMAIN-SUFFIX,mitbbs.com
 DOMAIN-SUFFIX,mitbbsau.com
