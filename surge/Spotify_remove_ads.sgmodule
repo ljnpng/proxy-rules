@@ -1,0 +1,26 @@
+#!name=Spotify去广告
+#!desc=移除播放广告，恢复歌手和专辑列表的正常展示。修改自定义配置后需要重新登录 Spotify 才会生效。
+#!author=001ProMax[https://github.com/001ProMax]
+#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Spotify.png
+#!category=iKeLee
+#!openUrl=https://apps.apple.com/app/id324684580
+#!tag=去广告
+#!source=https://kelee.one/Tool/Loon/Lpx/Spotify_remove_ads.lpx
+#!converted_for=Surge
+#!arguments=tab=false&useractivity=true
+#!arguments-desc=tab: 移除底栏创建按钮 [true, false]\nuseractivity: 启用 Apple 设备接力 [true, false]
+
+[Rule]
+AND,((DOMAIN-SUFFIX,spotify.com,extended-matching),(PROTOCOL,QUIC)),REJECT
+
+[URL Rewrite]
+^https:\/\/(?:\w+-spclient|spclient\.wg)\.spotify\.com(?::443)?\/artistview\/v1\/artist\/(.*)&platform=iphone https://spclient.wg.spotify.com/artistview/v1/artist/$1&platform=ipad header
+
+[Map Local]
+^https:\/\/(?:\w+-spclient|spclient\.wg)\.spotify\.com(?::443)?\/pendragon\/ data-type=text data="{}" status-code=200 header="Content-Type:application/json"
+
+[Script]
+Protobuf处理 = type=http-response, pattern=^https:\/\/(?:\w+-spclient|spclient\.wg)\.spotify\.com(?::443)?\/(?:bootstrap|user-customization-service), script-path=https://raw.githubusercontent.com/bunizao/Mirrored/7e330204e53166a62f5c052998b50b27fdf506ca/Chores/js/Spotify_remove_ads.js, requires-body=true, binary-body-mode=true, timeout=5, argument="{\"tab\":%tab%,\"useractivity\":%useractivity%}"
+
+[MITM]
+hostname = %APPEND% *-spclient.spotify.com, spclient.wg.spotify.com
