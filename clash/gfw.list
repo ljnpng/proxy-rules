@@ -1,6 +1,6 @@
 # GFW List - Auto-synced from github.com/gfwlist/gfwlist
 # Format: Surge rule set
-# Domains: 4296
+# Domains: 4297
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,1688.com.au
 DOMAIN-SUFFIX,173ng.com
 DOMAIN-SUFFIX,18board.com
 DOMAIN-SUFFIX,18comic.org
+DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,18mh.net
 DOMAIN-SUFFIX,1984bbs.com
 DOMAIN-SUFFIX,1991way.com
