@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34270
+# TOTAL: 34271
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -24524,6 +24524,7 @@ DOMAIN-SUFFIX,qmul.ac.uk
 DOMAIN-SUFFIX,qmw.ac.uk
 DOMAIN-SUFFIX,qmzdd.com
 DOMAIN-SUFFIX,qnap.com
+DOMAIN-SUFFIX,qnapsupport.net
 DOMAIN-SUFFIX,qobuz.com
 DOMAIN-SUFFIX,qombol.com
 DOMAIN-SUFFIX,qoo-app.com
