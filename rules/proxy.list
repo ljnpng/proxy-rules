@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34271
+# TOTAL: 34273
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -7010,6 +7010,7 @@ DOMAIN-SUFFIX,clash.com
 DOMAIN-SUFFIX,clashmini.com
 DOMAIN-SUFFIX,clashofclans.com
 DOMAIN-SUFFIX,clashroyale.com
+DOMAIN-SUFFIX,clashyun.com
 DOMAIN-SUFFIX,clasporno.org
 DOMAIN-SUFFIX,classicalguitarblog.net
 DOMAIN-SUFFIX,classicnike.com
@@ -28336,6 +28337,7 @@ DOMAIN-SUFFIX,sysmic.ac.uk
 DOMAIN-SUFFIX,sysresccd.org
 DOMAIN-SUFFIX,system76.com
 DOMAIN-SUFFIX,systemicrisk.ac.uk
+DOMAIN-SUFFIX,sysub.com
 DOMAIN-SUFFIX,sytes.net
 DOMAIN-SUFFIX,syx86.com
 DOMAIN-SUFFIX,syzbj36.xyz
