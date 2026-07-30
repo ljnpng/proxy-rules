@@ -1,6 +1,6 @@
 # GFW List - Auto-synced from github.com/gfwlist/gfwlist
 # Format: Surge rule set
-# Domains: 4304
+# Domains: 4305
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -3816,6 +3816,7 @@ DOMAIN-SUFFIX,uyghurstudies.org
 DOMAIN-SUFFIX,uyghurtribunal.com
 DOMAIN-SUFFIX,uygur.fc2web.com
 DOMAIN-SUFFIX,uymaarip.com
+DOMAIN-SUFFIX,v.recipes
 DOMAIN-SUFFIX,v2.help
 DOMAIN-SUFFIX,v2.hysteria.network
 DOMAIN-SUFFIX,v2ex.com

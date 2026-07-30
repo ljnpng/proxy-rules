@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34288
+# TOTAL: 34295
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -4737,6 +4737,7 @@ DOMAIN-SUFFIX,bluemix.net
 DOMAIN-SUFFIX,bluestacks.com
 DOMAIN-SUFFIX,bluestone.ac.uk
 DOMAIN-SUFFIX,bluffyporn.com
+DOMAIN-SUFFIX,blurams.app
 DOMAIN-SUFFIX,blurams.com
 DOMAIN-SUFFIX,blws.ac.uk
 DOMAIN-SUFFIX,blylq.buzz
@@ -6454,6 +6455,7 @@ DOMAIN-SUFFIX,cemp.ac.uk
 DOMAIN-SUFFIX,cencoastbmw.com
 DOMAIN-SUFFIX,cenews.eu
 DOMAIN-SUFFIX,cenkei.com
+DOMAIN-SUFFIX,ceno.app
 DOMAIN-SUFFIX,censorship.ai
 DOMAIN-SUFFIX,censorship.no
 DOMAIN-SUFFIX,census-registration.ac.uk
@@ -12765,6 +12767,7 @@ DOMAIN-SUFFIX,githack.com
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.career
 DOMAIN-SUFFIX,github1s.com
+DOMAIN-SUFFIX,githubsupport.com
 DOMAIN-SUFFIX,gitlab-static.net
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.io
@@ -16270,6 +16273,7 @@ DOMAIN-SUFFIX,iutunes.com
 DOMAIN-SUFFIX,ivacy.com
 DOMAIN-SUFFIX,iverycd.com
 DOMAIN-SUFFIX,ivi.ru
+DOMAIN-SUFFIX,ivicdn.tv
 DOMAIN-SUFFIX,ivintageporn.com
 DOMAIN-SUFFIX,ivonblog.com
 DOMAIN-SUFFIX,ivpn.net
@@ -17182,6 +17186,7 @@ DOMAIN-SUFFIX,kindleren.com
 DOMAIN-SUFFIX,kindnudist.com
 DOMAIN-SUFFIX,kinds.ac.uk
 DOMAIN-SUFFIX,kindteenporn.com
+DOMAIN-SUFFIX,kinescopecdn.net
 DOMAIN-SUFFIX,king.ac.uk
 DOMAIN-SUFFIX,kingalfreds.ac.uk
 DOMAIN-SUFFIX,kingalfredsbasingstoke.ac.uk
@@ -25862,6 +25867,7 @@ DOMAIN-SUFFIX,sber.pro
 DOMAIN-SUFFIX,sber.ru
 DOMAIN-SUFFIX,sberauto.com
 DOMAIN-SUFFIX,sberbank-insurance.ru
+DOMAIN-SUFFIX,sberbank-tele.com
 DOMAIN-SUFFIX,sberbank.com
 DOMAIN-SUFFIX,sberbank.ru
 DOMAIN-SUFFIX,sberbankaktivno.ru
@@ -30630,6 +30636,7 @@ DOMAIN-SUFFIX,v-has.com
 DOMAIN-SUFFIX,v-resort.ac.uk
 DOMAIN-SUFFIX,v.gd
 DOMAIN-SUFFIX,v.ps
+DOMAIN-SUFFIX,v.recipes
 DOMAIN-SUFFIX,v.roucdn
 DOMAIN-SUFFIX,v2.help
 DOMAIN-SUFFIX,v2.hysteria.network
