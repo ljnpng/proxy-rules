@@ -1,6 +1,6 @@
 # GFW List - Auto-synced from github.com/gfwlist/gfwlist
 # Format: Surge rule set
-# Domains: 4305
+# Domains: 4306
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -2202,6 +2202,7 @@ DOMAIN-SUFFIX,lenwhite.com
 DOMAIN-SUFFIX,leonardo.ai
 DOMAIN-SUFFIX,lesoir.be
 DOMAIN-SUFFIX,letscorp.net
+DOMAIN-SUFFIX,level-plus.net
 DOMAIN-SUFFIX,lexica.art
 DOMAIN-SUFFIX,lhakar.org
 DOMAIN-SUFFIX,li.taipei
