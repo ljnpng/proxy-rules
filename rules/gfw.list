@@ -1,6 +1,6 @@
 # GFW List - Auto-synced from github.com/gfwlist/gfwlist
 # Format: Surge rule set
-# Domains: 4306
+# Domains: 4307
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -2620,6 +2620,7 @@ DOMAIN-SUFFIX,ntd.tv
 DOMAIN-SUFFIX,ntdtv.com
 DOMAIN-SUFFIX,ntdtv.com.tw
 DOMAIN-SUFFIX,ntdtv.cz
+DOMAIN-SUFFIX,nthlink.com
 DOMAIN-SUFFIX,nuexpo.com
 DOMAIN-SUFFIX,nurgo-software.com
 DOMAIN-SUFFIX,nusatrip.com
