@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34339
+# TOTAL: 34337
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -3103,7 +3103,6 @@ DOMAIN-SUFFIX,aue.ac.uk
 DOMAIN-SUFFIX,auee.ac.uk
 DOMAIN-SUFFIX,aukcar.ac.uk
 DOMAIN-SUFFIX,aulic.ac.uk
-DOMAIN-SUFFIX,auntology.fandom.com
 DOMAIN-SUFFIX,auntymaza.com
 DOMAIN-SUFFIX,auphf.ac.uk
 DOMAIN-SUFFIX,auricularemonsterbeats.com
@@ -14307,7 +14306,6 @@ DOMAIN-SUFFIX,honey-monitoring.ac.uk
 DOMAIN-SUFFIX,honeynet.org
 DOMAIN-SUFFIX,hongjie10.xyz
 DOMAIN-SUFFIX,hongjie11.xyz
-DOMAIN-SUFFIX,hongkong.fandom.com
 DOMAIN-SUFFIX,hongkongdoll.tv
 DOMAIN-SUFFIX,hongkongdollvideo.org
 DOMAIN-SUFFIX,hongkongfp.com
