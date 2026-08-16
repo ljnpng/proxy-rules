@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34422
+# TOTAL: 34425
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -25573,6 +25573,7 @@ DOMAIN-SUFFIX,rsdlmonitor.com
 DOMAIN-SUFFIX,rse.ac.uk
 DOMAIN-SUFFIX,rsf-chinese.org
 DOMAIN-SUFFIX,rsf.org
+DOMAIN-SUFFIX,rsg.ms
 DOMAIN-SUFFIX,rsg.sc
 DOMAIN-SUFFIX,rsgamen.org
 DOMAIN-SUFFIX,rshb.ru
@@ -26004,6 +26005,8 @@ DOMAIN-SUFFIX,sbusinesslondon.ac.uk
 DOMAIN-SUFFIX,sbux.com.my
 DOMAIN-SUFFIX,sbuxcard.com
 DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN-SUFFIX,sc-gw.com
+DOMAIN-SUFFIX,sc-static.net
 DOMAIN-SUFFIX,sc-toolkit.ac.uk
 DOMAIN-SUFFIX,sc.com
 DOMAIN-SUFFIX,sc1.ac.uk
