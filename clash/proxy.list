@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34429
+# TOTAL: 34430
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -21745,6 +21745,7 @@ DOMAIN-SUFFIX,noodlemagazine.com
 DOMAIN-SUFFIX,noodlevpn.com
 DOMAIN-SUFFIX,noosferabank.ru
 DOMAIN-SUFFIX,norbulingka.org
+DOMAIN-SUFFIX,nordcdn.com
 DOMAIN-SUFFIX,nordstrom.com
 DOMAIN-SUFFIX,nordstromimage.com
 DOMAIN-SUFFIX,nordstrommedia.com
