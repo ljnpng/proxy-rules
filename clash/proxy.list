@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34430
+# TOTAL: 34431
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -5432,6 +5432,7 @@ DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,brewmp.com
 DOMAIN-SUFFIX,briantreepayments.net
 DOMAIN-SUFFIX,briantreepayments.tv
+DOMAIN-SUFFIX,briarproject.org
 DOMAIN-SUFFIX,bricoltech.ac.uk
 DOMAIN-SUFFIX,bridgce.ac.uk
 DOMAIN-SUFFIX,bridge-studio.co.uk
