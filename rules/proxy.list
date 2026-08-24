@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34443
+# TOTAL: 34445
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -2351,6 +2351,7 @@ DOMAIN-SUFFIX,api.news
 DOMAIN-SUFFIX,api.palworldgame.com
 DOMAIN-SUFFIX,api.pureapk.com
 DOMAIN-SUFFIX,api.recaptcha.net
+DOMAIN-SUFFIX,api.shuaiapi.com
 DOMAIN-SUFFIX,api.steampowered.com
 DOMAIN-SUFFIX,api5.futunn.com
 DOMAIN-SUFFIX,apiary.io
@@ -32825,6 +32826,7 @@ DOMAIN-SUFFIX,x365x.com
 DOMAIN-SUFFIX,x3guide.com
 DOMAIN-SUFFIX,x3vid.com
 DOMAIN-SUFFIX,x6av.com
+DOMAIN-SUFFIX,x86.fr
 DOMAIN-SUFFIX,x99av.com
 DOMAIN-SUFFIX,x9wang.com
 DOMAIN-SUFFIX,xacmbq.xyz
