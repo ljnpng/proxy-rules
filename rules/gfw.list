@@ -1,6 +1,6 @@
 # GFW List - Auto-synced from github.com/gfwlist/gfwlist
 # Format: Surge rule set
-# Domains: 4320
+# Domains: 4321
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -4084,6 +4084,7 @@ DOMAIN-SUFFIX,woyaolian.org
 DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,wplace.live
 DOMAIN-SUFFIX,wpoforum.com
+DOMAIN-SUFFIX,write.as
 DOMAIN-SUFFIX,writesonic.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
