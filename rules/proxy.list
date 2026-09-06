@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34466
+# TOTAL: 34467
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -17987,6 +17987,7 @@ DOMAIN-SUFFIX,linseysworld.com
 DOMAIN-SUFFIX,linst.ac.uk
 DOMAIN-SUFFIX,linux.org
 DOMAIN-SUFFIX,linux.org.hk
+DOMAIN-SUFFIX,linux.sb
 DOMAIN-SUFFIX,linuxfoundation.org
 DOMAIN-SUFFIX,linuxfromscratch.org
 DOMAIN-SUFFIX,linuxmint.com
