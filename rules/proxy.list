@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34452
+# TOTAL: 34444
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -3400,7 +3400,6 @@ DOMAIN-SUFFIX,aws-iot-hackathon.com
 DOMAIN-SUFFIX,aws.com
 DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,awsapprunner.com
-DOMAIN-SUFFIX,awsapps.com
 DOMAIN-SUFFIX,awsautopilot.com
 DOMAIN-SUFFIX,awsautoscaling.com
 DOMAIN-SUFFIX,awsbraket.com
@@ -7058,7 +7057,6 @@ DOMAIN-SUFFIX,classicnike.com
 DOMAIN-SUFFIX,classics.ac.uk
 DOMAIN-SUFFIX,classymomsex.com
 DOMAIN-SUFFIX,clau.de
-DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
@@ -10009,7 +10007,6 @@ DOMAIN-SUFFIX,elephantsdream.org
 DOMAIN-SUFFIX,elephanttube.com
 DOMAIN-SUFFIX,elephanttubenew.com
 DOMAIN-SUFFIX,elevenlabs.com
-DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,elgaronline.com
 DOMAIN-SUFFIX,elgoog.im
 DOMAIN-SUFFIX,elib.ac.uk
@@ -17313,7 +17310,6 @@ DOMAIN-SUFFIX,kirbysuperstarultra.com
 DOMAIN-SUFFIX,kireipass.jp
 DOMAIN-SUFFIX,kirkleescollege.ac.uk
 DOMAIN-SUFFIX,kirkley.ac.uk
-DOMAIN-SUFFIX,kiro.dev
 DOMAIN-SUFFIX,kisharon.ac.uk
 DOMAIN-SUFFIX,kismia.com
 DOMAIN-SUFFIX,kisscos.net
@@ -19239,8 +19235,6 @@ DOMAIN-SUFFIX,messengerdevelopers.com
 DOMAIN-SUFFIX,messybrainz.org
 DOMAIN-SUFFIX,messytube.com
 DOMAIN-SUFFIX,met-nude.com
-DOMAIN-SUFFIX,meta.ai
-DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,metabolomics.ac.uk
 DOMAIN-SUFFIX,metabora.io
 DOMAIN-SUFFIX,metabrainz.org
@@ -22123,7 +22117,6 @@ DOMAIN-SUFFIX,nvidia.co.in
 DOMAIN-SUFFIX,nvidia.co.jp
 DOMAIN-SUFFIX,nvidia.co.kr
 DOMAIN-SUFFIX,nvidia.co.uk
-DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,nvidia.com.au
 DOMAIN-SUFFIX,nvidia.com.br
 DOMAIN-SUFFIX,nvidia.com.mx
@@ -22589,7 +22582,6 @@ DOMAIN-SUFFIX,openreality.com
 DOMAIN-SUFFIX,openrec.tv
 DOMAIN-SUFFIX,openresty.org
 DOMAIN-SUFFIX,openreview.net
-DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,opensciencelab.ac.uk
 DOMAIN-SUFFIX,opensciencelaboratory.ac.uk
 DOMAIN-SUFFIX,opensea.io
