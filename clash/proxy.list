@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34447
+# TOTAL: 34448
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -21799,6 +21799,7 @@ DOMAIN-SUFFIX,northumbria.ac.uk
 DOMAIN-SUFFIX,norton.com
 DOMAIN-SUFFIX,norwichresearchpark.ac.uk
 DOMAIN-SUFFIX,nos.nl
+DOMAIN-SUFFIX,note.com
 DOMAIN-SUFFIX,notegpt.io
 DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,noticias-rt.com

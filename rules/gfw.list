@@ -1,6 +1,6 @@
 # GFW List - Auto-synced from github.com/gfwlist/gfwlist
 # Format: Surge rule set
-# Domains: 4319
+# Domains: 4320
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -2618,6 +2618,7 @@ DOMAIN-SUFFIX,nordstromimage.com
 DOMAIN-SUFFIX,nordstromrack.com
 DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,nos.nl
+DOMAIN-SUFFIX,note.com
 DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,nottinghampost.com
 DOMAIN-SUFFIX,now.com
