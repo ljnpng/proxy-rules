@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34462
+# TOTAL: 34463
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -26967,6 +26967,7 @@ DOMAIN-SUFFIX,sinchew.com.my
 DOMAIN-SUFFIX,sinchew.my
 DOMAIN-SUFFIX,sinet.ac.uk
 DOMAIN-SUFFIX,sing-box.app
+DOMAIN-SUFFIX,sing-box.sagernet.org
 DOMAIN-SUFFIX,sing4.lat
 DOMAIN-SUFFIX,sing68.com
 DOMAIN-SUFFIX,singaporepools.com.sg
