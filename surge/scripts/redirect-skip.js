@@ -19,6 +19,7 @@
   var HOST_KEYS = [
     [/open\.work\.weixin\.qq\.com/i, ["uri"]],
     [/developers\.weixin\.qq\.com/i, ["href"]],
+    [/weixin110\.qq\.com/i, ["url"]],
     [/(^|\.)weibo\.cn$/i, ["u", "toasturl", "url"]],
     [/mail\.qq\.com/i, ["url", "gourl"]],
     [/c\.pc\.qq\.com/i, ["pfurl"]],
