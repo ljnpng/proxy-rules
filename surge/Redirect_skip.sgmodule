@@ -1,0 +1,12 @@
+#!name=外链直跳
+#!desc=跳过知乎 / 掘金 / 简书 / CSDN / Gitee / 微博 / 豆瓣 / B站 / 少数派等站外跳转确认页, 解析真实目标后直接 302, 不再点"继续访问"。需开启 MITM 并信任证书。
+#!author=ljnpng[https://github.com/ljnpng]
+#!category=效率
+#!tag=去跳转
+#!source=https://github.com/ljnpng/proxy-rules/blob/main/surge/Redirect_skip.sgmodule
+
+[Script]
+外链直跳 = type=http-request,pattern=^https://(link\.zhihu\.com/|link\.juejin\.cn/|link\.csdn\.net/|gitee\.com/link|sspai\.com/link|link\.uisdc\.com/|link\.bilibili\.com/|link\.xiaohongshu\.com/|afdian\.net/link|leetcode\.cn/link/|www\.douban\.com/link2/|www\.jianshu\.com/go-wild|link\.jianshu\.com/|weibo\.cn/sinaurl|www\.pixiv\.net/jump\.php|blog\.51cto\.com/transfer|www\.qcc\.com/web/transfer-link|www\.tianyancha\.com/security|aiqicha\.baidu\.com/safetip|www\.pc6\.com/goread\.html|www\.chinaz\.com/go\.shtml|www\.oschina\.net/action/GoToLink|m\.sogou\.com/.*tc([?/]|$)|jump2?\.bdimg\.com/safecheck|c\.pc\.qq\.com/middlem\.html|mail\.qq\.com/cgi-bin/|docs\.qq\.com/scenario/link\.html|app\.yinxiang\.com/OutboundRedirect|www\.youtube\.com/redirect|developers\.weixin\.qq\.com/community/middlepage/href|open\.work\.weixin\.qq\.com/),script-path=https://raw.githubusercontent.com/ljnpng/proxy-rules/main/surge/scripts/redirect-skip.js,requires-body=false,timeout=3
+
+[MITM]
+hostname = %APPEND% link.zhihu.com, link.juejin.cn, link.csdn.net, gitee.com, sspai.com, link.uisdc.com, link.bilibili.com, link.xiaohongshu.com, afdian.net, leetcode.cn, www.douban.com, www.jianshu.com, link.jianshu.com, weibo.cn, www.pixiv.net, blog.51cto.com, www.qcc.com, www.tianyancha.com, aiqicha.baidu.com, www.pc6.com, www.chinaz.com, www.oschina.net, m.sogou.com, jump.bdimg.com, jump2.bdimg.com, c.pc.qq.com, mail.qq.com, docs.qq.com, app.yinxiang.com, www.youtube.com, developers.weixin.qq.com, open.work.weixin.qq.com
