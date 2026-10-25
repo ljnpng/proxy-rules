@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34655
+# TOTAL: 34662
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -202,6 +202,7 @@ DOMAIN-SUFFIX,11jav.com
 DOMAIN-SUFFIX,123-hp.com
 DOMAIN-SUFFIX,123av.com
 DOMAIN-SUFFIX,123av.me
+DOMAIN-SUFFIX,123av.org
 DOMAIN-SUFFIX,123bin.cc
 DOMAIN-SUFFIX,123dapp.com
 DOMAIN-SUFFIX,123dappipad.com
@@ -17334,6 +17335,7 @@ DOMAIN-SUFFIX,kilmarnock.ac.uk
 DOMAIN-SUFFIX,kilmeadeandfriends.com
 DOMAIN-SUFFIX,kimchi.tv
 DOMAIN-SUFFIX,kimogirl.cc
+DOMAIN-SUFFIX,kimootoko.net
 DOMAIN-SUFFIX,kimosex.com
 DOMAIN-SUFFIX,kimy.com.tw
 DOMAIN-SUFFIX,kindgirls.com
@@ -19911,6 +19913,7 @@ DOMAIN-SUFFIX,miniwidget.ca
 DOMAIN-SUFFIX,miniwindsor.com
 DOMAIN-SUFFIX,miniworkshop.com
 DOMAIN-SUFFIX,miniyaletown.ca
+DOMAIN-SUFFIX,minkch.com
 DOMAIN-SUFFIX,minnano-av.com
 DOMAIN-SUFFIX,minne.com
 DOMAIN-SUFFIX,minneapolisbmw.com
@@ -20343,6 +20346,7 @@ DOMAIN-SUFFIX,movidius.com
 DOMAIN-SUFFIX,movidius.net
 DOMAIN-SUFFIX,movidius.org
 DOMAIN-SUFFIX,movie-erog.com
+DOMAIN-SUFFIX,movie.eroterest.net
 DOMAIN-SUFFIX,movie1000.xyz
 DOMAIN-SUFFIX,moviefap.com
 DOMAIN-SUFFIX,moviepost.com
@@ -21805,6 +21809,7 @@ DOMAIN-SUFFIX,nixos.wiki
 DOMAIN-SUFFIX,nixpkgs.org
 DOMAIN-SUFFIX,niziero.info
 DOMAIN-SUFFIX,njactb.org
+DOMAIN-SUFFIX,njav.com
 DOMAIN-SUFFIX,njav.tv
 DOMAIN-SUFFIX,njavtv.com
 DOMAIN-SUFFIX,njncscotlandscolleges.ac.uk
@@ -23842,6 +23847,7 @@ DOMAIN-SUFFIX,pmem.org
 DOMAIN-SUFFIX,pmem.us
 DOMAIN-SUFFIX,pml.ac.uk
 DOMAIN-SUFFIX,pms.ac.uk
+DOMAIN-SUFFIX,po-kaki-to.com
 DOMAIN-SUFFIX,po18.tw
 DOMAIN-SUFFIX,po2b.com
 DOMAIN-SUFFIX,pobeda.page
@@ -34448,6 +34454,7 @@ DOMAIN-SUFFIX,zorglist.com
 DOMAIN-SUFFIX,zorrovpn.com
 DOMAIN-SUFFIX,zotero.org
 DOMAIN-SUFFIX,zozotown.com
+DOMAIN-SUFFIX,zozovideo.com
 DOMAIN-SUFFIX,zpagov.net
 DOMAIN-SUFFIX,zpath.com
 DOMAIN-SUFFIX,zpn.im
