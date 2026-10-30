@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34676
+# TOTAL: 34678
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -2277,6 +2277,7 @@ DOMAIN-SUFFIX,antf.ac.uk
 DOMAIN-SUFFIX,anthemgame.com
 DOMAIN-SUFFIX,anthemthegame.com
 DOMAIN-SUFFIX,anthonycalzadilla.com
+DOMAIN-SUFFIX,anthropic.auth0.com
 DOMAIN-SUFFIX,anthropic.team
 DOMAIN-SUFFIX,anthropology.ac.uk
 DOMAIN-SUFFIX,anti1984.com
@@ -5642,6 +5643,7 @@ DOMAIN-SUFFIX,bsixbrookehouse.ac.uk
 DOMAIN-SUFFIX,bsixbrookehousesixthformcollege.ac.uk
 DOMAIN-SUFFIX,bsixcollege.ac.uk
 DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.chat
 DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,bsls.ac.uk
