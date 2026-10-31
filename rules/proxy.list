@@ -1,6 +1,6 @@
 # NAME: Proxy
 # DESCRIPTION: Merged from gfw.list + Global.list, deduplicated against other rule sets
-# TOTAL: 34678
+# TOTAL: 34681
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,agb9r0ad.qllfkl.com
@@ -2368,6 +2368,7 @@ DOMAIN-SUFFIX,api.pureapk.com
 DOMAIN-SUFFIX,api.recaptcha.net
 DOMAIN-SUFFIX,api.shuaiapi.com
 DOMAIN-SUFFIX,api.steampowered.com
+DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,apiary.io
 DOMAIN-SUFFIX,apiauto.ru
 DOMAIN-SUFFIX,apibay.org
@@ -29786,6 +29787,7 @@ DOMAIN-SUFFIX,toroporno.com
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,torrentgalaxy.to
 DOMAIN-SUFFIX,torrentkitty.tv
+DOMAIN-SUFFIX,torrentleech.org
 DOMAIN-SUFFIX,torrentleen.com
 DOMAIN-SUFFIX,torrentmac.net
 DOMAIN-SUFFIX,torrentprivacy.com
@@ -34153,6 +34155,7 @@ DOMAIN-SUFFIX,youtrannytube.com
 DOMAIN-SUFFIX,youtubecisco.com
 DOMAIN-SUFFIX,youtubecn.com
 DOMAIN-SUFFIX,youversion.com
+DOMAIN-SUFFIX,youversionapi.com
 DOMAIN-SUFFIX,youwin.com
 DOMAIN-SUFFIX,youwuss.com
 DOMAIN-SUFFIX,youx.xxx
